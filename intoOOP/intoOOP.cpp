@@ -20,11 +20,11 @@ public: // akses modifier
 
 
 class matakuliah {
-	private:
+private:
 		string kodemk;
 		string namamk;
 		int sks;
-	public :
+public :
 		void input() {
 			cout << "kod mk: ";
 			cin >> kodemk;
