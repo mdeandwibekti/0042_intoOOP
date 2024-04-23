@@ -42,6 +42,8 @@ class matakuliah {
 
 };
 
+
+
 int main() {
 	mahasiswa mhs;
 	matakuliah mk;
