@@ -49,4 +49,8 @@ int main() {
 	mhs.jurusan = "teknik informatika";
 	mhs.output();
 
+	mk.input();
+	mk.output();
+	
+	return 0;
 }
