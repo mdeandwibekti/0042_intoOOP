@@ -14,3 +14,11 @@ public: // akses modifier
 
 	}
 };
+
+class matakuliah {
+	private:
+		string kodemk;
+		string namamk;
+		int sks;
+
+};
