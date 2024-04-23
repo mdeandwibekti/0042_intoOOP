@@ -36,3 +36,8 @@ class matakuliah {
 			cout << "sks: " << sks << endl;
 		}
 };
+
+int main() {
+	mahasiswa mhs;
+	matakuliah mk;
+}
