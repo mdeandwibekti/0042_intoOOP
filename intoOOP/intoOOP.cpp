@@ -15,6 +15,9 @@ public: // akses modifier
 	}
 };
 
+
+
+
 class matakuliah {
 	private:
 		string kodemk;
@@ -40,4 +43,10 @@ class matakuliah {
 int main() {
 	mahasiswa mhs;
 	matakuliah mk;
+
+	mhs.nama = "budi";
+	mhs.umur = 20;
+	mhs.jurusan = "teknik informatika";
+	mhs.output();
+
 }
