@@ -5,7 +5,7 @@ class bangundatar {
 
 	//akses modifier
 private:
-	float oanjang, lebar;
+	float panjang, lebar;
 public:
 	float luas;
 
@@ -16,6 +16,11 @@ public:
 		cout << "masukan lebarnya = ";
 		cin >> lebar;
 	}
+
+	float hitungluas() {
+		return panjang * lebar;
+	}
+
 
 
 
