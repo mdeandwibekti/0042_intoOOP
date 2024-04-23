@@ -6,6 +6,9 @@ class bangundatar {
 	//akses modifier
 private:
 	float oanjang, lebar;
-	public
+public:
+	float luas;
+
+
 
 };
