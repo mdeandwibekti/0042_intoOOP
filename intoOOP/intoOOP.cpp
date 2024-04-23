@@ -20,5 +20,13 @@ class matakuliah {
 		string kodemk;
 		string namamk;
 		int sks;
-
+	public :
+		void input() {
+			cout << "kod mk: ";
+			cin >> kodemk;
+			cout << "nama mk: ";
+			cin >> namamk;
+			cout << "sks: ";
+			cin >> sks;
+		}
 };
